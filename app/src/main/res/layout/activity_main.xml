@@ -23,7 +23,7 @@
             android:id="@+id/txtView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="TUTORS"
+            android:text="Teachers"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="10dp"
             android:textColor="@color/white"
